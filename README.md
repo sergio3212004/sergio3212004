@@ -2,7 +2,7 @@
   <h1>Hi, I'm Sergio Monge 👋</h1>
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=7aa2f7&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Student;Full-Stack+Web+Developer;Neovim+Enthusiast;Data+%26+Backend+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=7aa2f7&center=true&vCenter=true&width=560&height=50&lines=Full-Stack+Web+Developer;Backend+%26+Frontend+Developer;Building+Scalable+Web+Applications;Clean+APIs+%26+Modern+Interfaces" alt="Typing SVG" />
   </p>
 
   <p align="center">
@@ -22,12 +22,13 @@
 
 ### 💫 About Me
 
-I am a passionate **Computer Science Student** dedicated to engineering high-quality, efficient web applications. I love diving into complex system design, exploring backend APIs, and crafting clean user experiences.
+I am a **Full-Stack Web Developer** focused on building efficient, maintainable, and user-centered web applications. I enjoy working across the stack, from designing clean APIs and backend services to creating responsive frontend interfaces.
 
 - 🎓 **Education:** Pursuing Computer Science Degree
-- 💻 **Fascinations:** Full-Stack development, Database design, API design & Optimization
-- 🛠️ **Workflow:** I do all my coding in a highly customized **Neovim** editor running on Linux
-- 💬 **Ask me about:** JavaScript, Python, database queries, and custom editor setups!
+- 💻 **Focus:** Full-stack web development, API design, backend architecture, and modern frontend experiences
+- ⚙️ **Backend:** REST APIs, service structure, authentication flows, and database-driven applications
+- 🎨 **Frontend:** Component-based interfaces, responsive layouts, and clean user experiences
+- 💬 **Ask me about:** JavaScript, TypeScript, PHP, Python, React, Vue, Laravel, Express.js, and NestJS
 
 <hr />
 
@@ -36,33 +37,31 @@ I am a passionate **Computer Science Student** dedicated to engineering high-qua
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h4>🚀 Languages & Frontend</h4>
+      <h4>💻 Programming Languages</h4>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
     </td>
     <td valign="top" width="50%">
-      <h4>⚙️ Backend & Databases</h4>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <h4>🎨 Frontend</h4>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td valign="top" width="100%">
-      <h4>🔧 Editor & Environment</h4>
-      <img src="https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <td valign="top" width="50%">
+      <h4>⚙️ Backend</h4>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>🔧 Tools</h4>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </td>
   </tr>
 </table>
